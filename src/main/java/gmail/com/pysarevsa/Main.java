@@ -30,6 +30,7 @@ public class Main {
             Thread.sleep(1000);
             System.out.println("FATHER!!!");
         } else System.out.println("You are so stupid!!!");
+// тестовые изменения
 
 
     }
